@@ -1,8 +1,14 @@
-print('KELOMPOK 2')
-print('Damai Raya Fakhruddin (21120123130096)')
-print('Herdika Putra Devara (21120123140112)')
-print('Muhammad Ilham (21120123120003)')
-print('Radja Fisabilillah (21120123130102)')
+def kelompok(angka_kelompok):
+    return print(f'KELOMPOK {angka_kelompok}')
+kelompok(2)
+
+def nama_kelompok():
+    print('Damai Raya Fakhruddin (21120123130096)')
+    print('Herdika Putra Devara (21120123140112)')
+    print('Muhammad Ilham (21120123120003)')
+    print('Radja Fisabilillah (21120123130102)')
+
+nama_kelompok()
 
 
 
